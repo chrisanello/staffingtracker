@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-11 03:34:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e34a50dedb23cf402fe37b7e0f96193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>core_company.x_snc_va_staffing_read</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_security_acl display_value="core_company">325370019f22120047a2d126c42e7006</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e34a50dedb23cf402fe37b7e0f96193c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 03:34:52</sys_updated_on>
+        <sys_user_role display_value="x_snc_va_staffing_read" name="x_snc_va_staffing_read">380a509edb23cf402fe37b7e0f961909</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config_module">
+    <sm_config_module action="INSERT_OR_UPDATE">
+        <app_name display_value="VA Staffing Tracker">955a90dedb23cf402fe37b7e0f9619d3</app_name>
+        <aspect>geolocation_maps</aspect>
+        <associated_mobile_module display_value="My Map">695ad0dedb23cf402fe37b7e0f961900</associated_mobile_module>
+        <associated_module/>
+        <on>true</on>
+        <sys_class_name>sm_config_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-24 16:01:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d9f10ea2db3707009eceff4e0f9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>955a90dedb23cf402fe37b7e0f9619d3</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sm_config_module_d9f10ea2db3707009eceff4e0f9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-24 16:01:55</sys_updated_on>
+    </sm_config_module>
+</record_update>

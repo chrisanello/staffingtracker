@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Va Staffing Va Staffing Position Grade" max_length="40" name="u_imp_tmpl_x_snc_va_staffing_va_staffing_position_grade" type="collection">
+        <element attributes="import_attribute_name=Grade,edge_encryption_enabled=true" label="Grade" max_length="6" name="u_grade" type="string"/>
+        <element attributes="import_attribute_name=Position/Grade,edge_encryption_enabled=true" label="Position/Grade" max_length="40" name="u_position_grade" type="string"/>
+        <element attributes="import_attribute_name=Series,edge_encryption_enabled=true" label="Series" max_length="10" name="u_series" type="string"/>
+    </element>
+</database>

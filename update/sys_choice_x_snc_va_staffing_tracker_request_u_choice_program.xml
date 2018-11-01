@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_program" table="x_snc_va_staffing_tracker_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Office</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>317d9816dbabcf409eceff4e0f9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>Business Office</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>GDP</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>757d9816dbabcf409eceff4e0f9619c6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 06:49:27</sys_updated_on>
+            <value>GDP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CRRC</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f17d9816dbabcf409eceff4e0f9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>CRRC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOM</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>357d9816dbabcf409eceff4e0f9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>DOM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GPD</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 06:49:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1d6819adb2fcf409eceff4e0f9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 06:49:26</sys_updated_on>
+            <value>GPD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HPACT</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b57d9816dbabcf409eceff4e0f9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>HPACT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HUD VASH</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f57d9816dbabcf409eceff4e0f9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>HUD VASH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HUD VASH Outreach</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>397d9816dbabcf409eceff4e0f9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>HUD VASH Outreach</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAACC</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>797d9816dbabcf409eceff4e0f9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>LAACC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VCED/CWT</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b97d9816dbabcf409eceff4e0f9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>VCED/CWT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VJP</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f97d9816dbabcf409eceff4e0f9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>VJP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WSIDE</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d7d9816dbabcf409eceff4e0f9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+            <value>WSIDE</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_program</element>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:48:40</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>bd7d9816dbabcf409eceff4e0f9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_program</sys_name>
+            <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+            <sys_update_name>sys_choice_x_snc_va_staffing_tracker_request_u_choice_program</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:48:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

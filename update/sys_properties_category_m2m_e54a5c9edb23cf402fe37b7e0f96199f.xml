@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="VA Staffing Tracker Geolocation">694a5c9edb23cf402fe37b7e0f961975</category>
+        <order>1</order>
+        <property display_value="x_snc_va_staffing.evening.rush.hours" name="x_snc_va_staffing.evening.rush.hours">e82a949edb23cf402fe37b7e0f961907</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-11 03:34:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e54a5c9edb23cf402fe37b7e0f96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_va_staffing.evening.rush.hours.VA Staffing Tracker Geolocation</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_e54a5c9edb23cf402fe37b7e0f96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 03:34:43</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

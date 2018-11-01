@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_va_staffing_agent" name="x_snc_va_staffing_agent">b00a109edb23cf402fe37b7e0f9619f2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-11 03:33:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fc0a109edb23cf402fe37b7e0f9619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b00a109edb23cf402fe37b7e0f9619f2</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fc0a109edb23cf402fe37b7e0f9619f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 03:33:35</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

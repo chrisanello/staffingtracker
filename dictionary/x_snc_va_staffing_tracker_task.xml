@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_task" label="Va Staffing Tracker Task" max_length="40" name="x_snc_va_staffing_tracker_task" type="collection"/>
+</database>

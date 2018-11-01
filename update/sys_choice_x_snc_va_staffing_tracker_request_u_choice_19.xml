@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_19" table="x_snc_va_staffing_tracker_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Currently Recruiting</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc23b496dbebcf409eceff4e0f96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Not Currently Recruiting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Developing FS/PD</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1423b496dbebcf409eceff4e0f9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Developing FS/PD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR Reviewing FS/PD</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9423b496dbebcf409eceff4e0f9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>HR Reviewing FS/PD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Service Preparing Recruitment Package</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1823b496dbebcf409eceff4e0f9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Service Preparing Recruitment Package</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR Preparing to Post</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9823b496dbebcf409eceff4e0f9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>HR Preparing to Post</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Announcement Posted</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c23b496dbebcf409eceff4e0f9619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Announcement Posted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Interviewing</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c23b496dbebcf409eceff4e0f9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Interviewing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Selection Made/Awaiting HR</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1023b496dbebcf409eceff4e0f9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Selection Made/Awaiting HR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR-OnBoard Clearance</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9023b496dbebcf409eceff4e0f9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>HR-OnBoard Clearance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Final Boarding Approval</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1423b496dbebcf409eceff4e0f9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Awaiting Final Boarding Approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Target Start Date</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9423b496dbebcf409eceff4e0f9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>Target Start Date</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_19</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FILLED</label>
+            <language>en</language>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1823b496dbebcf409eceff4e0f9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+            <value>FILLED</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_19</element>
+            <name>x_snc_va_staffing_tracker_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 05:23:19</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9c23b496dbebcf409eceff4e0f96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_19</sys_name>
+            <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+            <sys_update_name>sys_choice_x_snc_va_staffing_tracker_request_u_choice_19</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 05:23:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

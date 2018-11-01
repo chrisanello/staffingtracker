@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="sm_order" label="Va Staffing Tracker Request" max_length="40" name="x_snc_va_staffing_tracker_request" sizeclass="566" type="collection">
+        <element label="Vacant" max_length="40" name="u_boolean_vacant" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_choice_19" type="string">
+            <choice>
+                <element label="Not Currently Recruiting" sequence="0" value="Not Currently Recruiting"/>
+                <element label="Developing FS/PD" sequence="1" value="Developing FS/PD"/>
+                <element label="HR Reviewing FS/PD" sequence="2" value="HR Reviewing FS/PD"/>
+                <element label="Service Preparing Recruitment Package" sequence="3" value="Service Preparing Recruitment Package"/>
+                <element label="HR Preparing to Post" sequence="4" value="HR Preparing to Post"/>
+                <element label="Announcement Posted" sequence="5" value="Announcement Posted"/>
+                <element label="Interviewing" sequence="6" value="Interviewing"/>
+                <element label="Selection Made/Awaiting HR" sequence="7" value="Selection Made/Awaiting HR"/>
+                <element label="HR-OnBoard Clearance" sequence="8" value="HR-OnBoard Clearance"/>
+                <element label="Awaiting Final Boarding Approval" sequence="9" value="Awaiting Final Boarding Approval"/>
+                <element label="Target Start Date" sequence="10" value="Target Start Date"/>
+                <element label="FILLED" sequence="11" value="FILLED"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="GLA Program Name" max_length="40" name="u_choice_program" type="string">
+            <choice>
+                <element label="Business Office" sequence="0" value="Business Office"/>
+                <element label="CRRC" sequence="1" value="CRRC"/>
+                <element label="DOM" sequence="2" value="DOM"/>
+                <element label="GPD" sequence="3" value="GPD"/>
+                <element label="HPACT" sequence="4" value="HPACT"/>
+                <element label="HUD VASH" sequence="5" value="HUD VASH"/>
+                <element label="HUD VASH Outreach" sequence="6" value="HUD VASH Outreach"/>
+                <element label="LAACC" sequence="7" value="LAACC"/>
+                <element label="VCED/CWT" sequence="8" value="VCED/CWT"/>
+                <element label="VJP" sequence="9" value="VJP"/>
+                <element label="WSIDE" sequence="10" value="WSIDE"/>
+            </choice>
+        </element>
+        <element label="FTE" max_length="15" name="u_decimal_14" type="decimal"/>
+        <element label="EOD" max_length="40" name="u_glide_date_7" type="glide_date"/>
+        <element label="CERT Expected" max_length="40" name="u_glide_date_8" type="glide_date"/>
+        <element label="Recruit ARPA" max_length="40" name="u_integer_11" type="integer"/>
+        <element label="Homeless Staffing Database Ref #" max_length="40" name="u_integer_12" type="integer"/>
+        <element label="Position Number" max_length="40" name="u_integer_13" type="integer"/>
+        <element label="T&amp;L" max_length="40" name="u_integer_16" type="integer"/>
+        <element label="Position/Grade" max_length="32" name="u_reference_1" reference="x_snc_va_staffing_va_staffing_position_grade" type="reference"/>
+        <element dependent="u_boolean_vacant" dependent_on_field="u_boolean_vacant" label="Name" max_length="32" name="u_reference_3" reference="sn_hr_core_profile" type="reference" use_dependent_field="true"/>
+        <element label="Applicant Name" max_length="32" name="u_reference_6" reference="sys_user" type="reference"/>
+        <element label="WMC Specialist" max_length="32" name="u_reference_9" reference="sa_metric_learned_param" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="FUND" max_length="40" name="u_string_15" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FCP" max_length="40" name="u_string_17" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Applicant" max_length="40" name="u_string_20" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="WMC specialist" max_length="40" name="u_string_21" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Stage" max_length="40" name="u_string_22" type="string"/>
+    </element>
+</database>

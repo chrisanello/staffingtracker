@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>VA Staffing Tracker Task Flow</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>VA Staffing Tracker Task Flow</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">dbc46e61db0103009eceff4e0f961976</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-11 03:33:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ad0a909edb23cf402fe37b7e0f96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VA Staffing Tracker Task Flow</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sys_wizard_answer_ad0a909edb23cf402fe37b7e0f96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 03:33:39</sys_updated_on>
+        <table/>
+        <target_url>x_snc_va_staffing_sf_tracker_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

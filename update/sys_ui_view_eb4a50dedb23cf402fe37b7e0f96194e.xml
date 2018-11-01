@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_va_staffing_tracker_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-11 03:34:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>eb4a50dedb23cf402fe37b7e0f96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VA Staffing Tracker Catalog View</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sys_ui_view_eb4a50dedb23cf402fe37b7e0f96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 03:34:52</sys_updated_on>
+        <title>VA Staffing Tracker Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

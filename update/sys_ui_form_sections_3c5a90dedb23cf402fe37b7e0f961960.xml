@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3c5a90dedb23cf402fe37b7e0f961960" sys_domain="global" table="x_snc_va_staffing_tracker_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:34:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>745a90dedb23cf402fe37b7e0f961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_va_staffing_tracker_task" name="x_snc_va_staffing_tracker_task" sys_domain="global" view="Default view">3c5a90dedb23cf402fe37b7e0f961960</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_va_staffing_tracker_task" sys_domain="global" view="Default view">b45a90dedb23cf402fe37b7e0f96195d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:34:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:34:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b85a90dedb23cf402fe37b7e0f961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_va_staffing_tracker_task" name="x_snc_va_staffing_tracker_task" sys_domain="global" view="Default view">3c5a90dedb23cf402fe37b7e0f961960</sys_ui_form>
+            <sys_ui_section caption="Planned" display_value="Planned" name="x_snc_va_staffing_tracker_task" sys_domain="global" view="Default view">305a90dedb23cf402fe37b7e0f961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:34:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:34:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b45a90dedb23cf402fe37b7e0f961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_va_staffing_tracker_task" name="x_snc_va_staffing_tracker_task" sys_domain="global" view="Default view">3c5a90dedb23cf402fe37b7e0f961960</sys_ui_form>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_snc_va_staffing_tracker_task" sys_domain="global" view="Default view">b85a90dedb23cf402fe37b7e0f96196d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:34:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_va_staffing_tracker_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-11 03:34:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c5a90dedb23cf402fe37b7e0f961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_va_staffing_tracker_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3c5a90dedb23cf402fe37b7e0f961960</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-11 03:34:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

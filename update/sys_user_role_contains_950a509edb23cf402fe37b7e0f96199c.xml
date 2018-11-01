@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="personalize_dictionary" name="personalize_dictionary">30169459a9fe3dba01a70fa0acebfe45</contains>
+        <role display_value="x_snc_va_staffing_admin" name="x_snc_va_staffing_admin">340a109edb23cf402fe37b7e0f9619ed</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-11 03:33:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>950a509edb23cf402fe37b7e0f96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>personalize_dictionary.x_snc_va_staffing_admin</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sys_user_role_contains_950a509edb23cf402fe37b7e0f96199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 03:33:37</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

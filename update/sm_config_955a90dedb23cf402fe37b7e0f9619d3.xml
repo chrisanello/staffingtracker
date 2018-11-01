@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sm_config">
+    <sm_config action="INSERT_OR_UPDATE">
+        <accept_reject>false</accept_reject>
+        <active>true</active>
+        <admin_role display_value="x_snc_va_staffing_admin" name="x_snc_va_staffing_admin">340a109edb23cf402fe37b7e0f9619ed</admin_role>
+        <agent_role display_value="x_snc_va_staffing_agent" name="x_snc_va_staffing_agent">b00a109edb23cf402fe37b7e0f9619f2</agent_role>
+        <app_name>va_staffing_tracker</app_name>
+        <approval>true</approval>
+        <approval_workflow display_value="Approval Workflow for SM">da95b573d7322100bbc783e80e610360</approval_workflow>
+        <approver_role display_value="x_snc_va_staffing_approver_user" name="x_snc_va_staffing_approver_user">b40a109edb23cf402fe37b7e0f9619f5</approver_role>
+        <associated_task_tables/>
+        <auto_dispatch>true</auto_dispatch>
+        <basic_role display_value="x_snc_va_staffing_basic" name="x_snc_va_staffing_basic">bc0a109edb23cf402fe37b7e0f9619fb</basic_role>
+        <catalog display_value="VA Staffing Tracker Catalog">ef4a50dedb23cf402fe37b7e0f96194d</catalog>
+        <created_with_version>Jakarta: 11-22-2017_2104</created_with_version>
+        <disabled_processes/>
+        <dispatch_group_type display_value="va_staffing_tracker_dispatch">330a149edb23cf402fe37b7e0f961909</dispatch_group_type>
+        <dispatch_queue>false</dispatch_queue>
+        <dispatcher_role display_value="x_snc_va_staffing_dispatcher" name="x_snc_va_staffing_dispatcher">380a109edb23cf402fe37b7e0f9619ff</dispatcher_role>
+        <follow_the_sun_priority>{value:,type:,display:}</follow_the_sun_priority>
+        <geolocation_maps>false</geolocation_maps>
+        <inbound_email>false</inbound_email>
+        <initiator_role display_value="x_snc_va_staffing_initiator" name="x_snc_va_staffing_initiator">fc0a509edb23cf402fe37b7e0f961902</initiator_role>
+        <kbase display_value="VA Staffing Tracker Knowledge">7b4a50dedb23cf402fe37b7e0f96195e</kbase>
+        <knowledge_base>true</knowledge_base>
+        <limit_by_location>true</limit_by_location>
+        <main_model_category display_value="VA Staffing Tracker Request Template">6d4a5c9edb23cf402fe37b7e0f9619a5</main_model_category>
+        <main_model_table>x_snc_va_staffing_tracker_request_template</main_model_table>
+        <main_state_flow_table>x_snc_va_staffing_sf_tracker_request</main_state_flow_table>
+        <main_table>x_snc_va_staffing_tracker_request</main_table>
+        <managed_docs>true</managed_docs>
+        <mandatory_work_notes>false</mandatory_work_notes>
+        <name>VA Staffing Tracker</name>
+        <part_requirement>false</part_requirement>
+        <pdf_order_summary>false</pdf_order_summary>
+        <property_prefix>x_snc_va_staffing</property_prefix>
+        <qualification>false</qualification>
+        <qualification_group_type/>
+        <qualifier_role/>
+        <read_role display_value="x_snc_va_staffing_read" name="x_snc_va_staffing_read">380a509edb23cf402fe37b7e0f961909</read_role>
+        <request_dispatch_method>auto</request_dispatch_method>
+        <request_dispatch_workflow display_value="Request Assignment Workflow for SM">879cca02d7100200e5eb83e80e6103fc</request_dispatch_workflow>
+        <request_driven>false</request_driven>
+        <rollup_work_notes>false</rollup_work_notes>
+        <service_catalog>true</service_catalog>
+        <signature_capture>false</signature_capture>
+        <surveys/>
+        <sys_class_name>sm_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-11 03:34:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>955a90dedb23cf402fe37b7e0f9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VA Staffing Tracker</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sm_config_955a90dedb23cf402fe37b7e0f9619d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-11 03:34:59</sys_updated_on>
+        <task_activities>false</task_activities>
+        <task_dispatch_method>auto</task_dispatch_method>
+        <task_dispatch_workflow display_value="Assignment Workflow for SM">e1865971d7132100bbc783e80e610365</task_dispatch_workflow>
+        <task_model_category display_value="VA Staffing Tracker Task Template">654a5c9edb23cf402fe37b7e0f9619a6</task_model_category>
+        <task_model_table>x_snc_va_staffing_tracker_task_template</task_model_table>
+        <task_state_flow_table>x_snc_va_staffing_sf_tracker_task</task_state_flow_table>
+        <task_table>x_snc_va_staffing_tracker_task</task_table>
+        <task_work_group_type/>
+        <templates_to_catalog>true</templates_to_catalog>
+        <track_travel>false</track_travel>
+        <use_consistent_assignment>false</use_consistent_assignment>
+        <use_follow_the_sun>true</use_follow_the_sun>
+        <use_location>true</use_location>
+        <use_schedule>false</use_schedule>
+        <use_sf>true</use_sf>
+        <use_skill>all</use_skill>
+        <use_timezone>true</use_timezone>
+        <user_created>true</user_created>
+        <vendor_group_type display_value="va_staffing_tracker_vendor">b30a149edb23cf402fe37b7e0f961909</vendor_group_type>
+        <work_group_type display_value="va_staffing_tracker">3b0a149edb23cf402fe37b7e0f961908</work_group_type>
+    </sm_config>
+</record_update>

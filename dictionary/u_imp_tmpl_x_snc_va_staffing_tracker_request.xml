@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Va Staffing Tracker Request" max_length="40" name="u_imp_tmpl_x_snc_va_staffing_tracker_request" sizeclass="5085" type="collection">
+        <element attributes="import_attribute_name=Actual work end,edge_encryption_enabled=true" label="Actual work end" max_length="40" name="u_actual_work_end" type="string"/>
+        <element attributes="import_attribute_name=Actual work start,edge_encryption_enabled=true" label="Actual work start" max_length="40" name="u_actual_work_start" type="string"/>
+        <element attributes="import_attribute_name=Affected CI,edge_encryption_enabled=true" label="Affected CI" max_length="32" name="u_affected_ci" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Applicant" max_length="40" name="u_applicant" type="string"/>
+        <element attributes="import_attribute_name=Applicant Name,edge_encryption_enabled=true" label="Applicant Name" max_length="32" name="u_applicant_name" type="string"/>
+        <element attributes="import_attribute_name=Approval,edge_encryption_enabled=true" label="Approval" max_length="40" name="u_approval" type="string"/>
+        <element attributes="import_attribute_name=Approval set,edge_encryption_enabled=true" label="Approval set" max_length="40" name="u_approval_set" type="string"/>
+        <element attributes="import_attribute_name=Asset,edge_encryption_enabled=true" label="Asset" max_length="32" name="u_asset" type="string"/>
+        <element attributes="import_attribute_name=Assigned to,edge_encryption_enabled=true" label="Assigned to" max_length="32" name="u_assigned_to" type="string"/>
+        <element attributes="import_attribute_name=Assigned vendor,edge_encryption_enabled=true" label="Assigned vendor" max_length="32" name="u_assigned_vendor" type="string"/>
+        <element attributes="import_attribute_name=Assignment group,edge_encryption_enabled=true" label="Assignment group" max_length="32" name="u_assignment_group" type="string"/>
+        <element attributes="import_attribute_name=Billable,edge_encryption_enabled=true" label="Billable" max_length="40" name="u_billable" type="string"/>
+        <element attributes="import_attribute_name=Business Application,edge_encryption_enabled=true" label="Business Application" max_length="32" name="u_business_application" type="string"/>
+        <element attributes="import_attribute_name=Business Service,edge_encryption_enabled=true" label="Business Service" max_length="32" name="u_business_service" type="string"/>
+        <element attributes="import_attribute_name=Category(category),edge_encryption_enabled=true" label="Category(category)" max_length="40" name="u_category_category_" type="string"/>
+        <element attributes="import_attribute_name=Category(request_category),edge_encryption_enabled=true" label="Category(request_category)" max_length="40" name="u_category_request_category_" type="string"/>
+        <element attributes="import_attribute_name=CERT Expected,edge_encryption_enabled=true" label="CERT Expected" max_length="40" name="u_cert_expected" type="string"/>
+        <element attributes="import_attribute_name=Close notes,edge_encryption_enabled=true" label="Close notes" max_length="4000" name="u_close_notes" type="string"/>
+        <element attributes="import_attribute_name=Comments and Work notes,edge_encryption_enabled=true" label="Comments and Work notes" max_length="4000" name="u_comments_and_work_notes" type="string"/>
+        <element attributes="import_attribute_name=Company,edge_encryption_enabled=true" label="Company" max_length="32" name="u_company" type="string"/>
+        <element attributes="import_attribute_name=Contact type,edge_encryption_enabled=true" label="Contact type" max_length="40" name="u_contact_type" type="string"/>
+        <element attributes="import_attribute_name=Contract,edge_encryption_enabled=true" label="Contract" max_length="32" name="u_contract" type="string"/>
+        <element attributes="import_attribute_name=Correlation display,edge_encryption_enabled=true" label="Correlation display" max_length="100" name="u_correlation_display" type="string"/>
+        <element attributes="import_attribute_name=Correlation ID,edge_encryption_enabled=true" label="Correlation ID" max_length="100" name="u_correlation_id" type="string"/>
+        <element attributes="import_attribute_name=Delivery plan,edge_encryption_enabled=true" label="Delivery plan" max_length="32" name="u_delivery_plan" type="string"/>
+        <element attributes="import_attribute_name=Delivery task,edge_encryption_enabled=true" label="Delivery task" max_length="32" name="u_delivery_task" type="string"/>
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="4000" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Due date,edge_encryption_enabled=true" label="Due date" max_length="40" name="u_due_date" type="string"/>
+        <element attributes="import_attribute_name=EOD,edge_encryption_enabled=true" label="EOD" max_length="40" name="u_eod" type="string"/>
+        <element attributes="import_attribute_name=Expected end,edge_encryption_enabled=true" label="Expected end" max_length="40" name="u_expected_end" type="string"/>
+        <element attributes="import_attribute_name=FCP,edge_encryption_enabled=true" label="FCP" max_length="40" name="u_fcp" type="string"/>
+        <element attributes="import_attribute_name=Follow up,edge_encryption_enabled=true" label="Follow up" max_length="40" name="u_follow_up" type="string"/>
+        <element attributes="import_attribute_name=FTE,edge_encryption_enabled=true" label="FTE" max_length="15" name="u_fte" type="string"/>
+        <element attributes="import_attribute_name=FUND,edge_encryption_enabled=true" label="FUND" max_length="40" name="u_fund" type="string"/>
+        <element attributes="import_attribute_name=GLA Program Name,edge_encryption_enabled=true" label="GLA Program Name" max_length="40" name="u_gla_program_name" type="string"/>
+        <element attributes="import_attribute_name=Homeless Staffing Database Ref #,edge_encryption_enabled=true" label="Homeless Staffing Database Ref #" max_length="40" name="u_homeless_sta_database_ref__" type="string"/>
+        <element attributes="import_attribute_name=Impact,edge_encryption_enabled=true" label="Impact" max_length="40" name="u_impact" type="string"/>
+        <element attributes="import_attribute_name=Initiated from,edge_encryption_enabled=true" label="Initiated from" max_length="32" name="u_initiated_from" type="string"/>
+        <element attributes="import_attribute_name=Is catalog,edge_encryption_enabled=true" label="Is catalog" max_length="40" name="u_is_catalog" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="32" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Made SLA,edge_encryption_enabled=true" label="Made SLA" max_length="40" name="u_made_sla" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="32" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Number,edge_encryption_enabled=true" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="import_attribute_name=Opened by,edge_encryption_enabled=true" label="Opened by" max_length="32" name="u_opened_by" type="string"/>
+        <element attributes="import_attribute_name=Opened for,edge_encryption_enabled=true" label="Opened for" max_length="32" name="u_opened_for" type="string"/>
+        <element attributes="import_attribute_name=Order,edge_encryption_enabled=true" label="Order" max_length="40" name="u_order" type="string"/>
+        <element attributes="import_attribute_name=Parent,edge_encryption_enabled=true" label="Parent" max_length="32" name="u_parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Position/Grade" max_length="40" name="u_position_grade" type="string"/>
+        <element attributes="import_attribute_name=Position Number,edge_encryption_enabled=true" label="Position Number" max_length="40" name="u_position_number" type="string"/>
+        <element attributes="import_attribute_name=POSITION /GRADE,edge_encryption_enabled=true" label="POSITION /GRADE" max_length="73" name="u_position__grade" type="string"/>
+        <element attributes="import_attribute_name=Previous agent,edge_encryption_enabled=true" label="Previous agent" max_length="32" name="u_previous_agent" type="string"/>
+        <element attributes="import_attribute_name=Priority,edge_encryption_enabled=true" label="Priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="import_attribute_name=Qualification group,edge_encryption_enabled=true" label="Qualification group" max_length="32" name="u_qualification_group" type="string"/>
+        <element attributes="import_attribute_name=Reassignment count,edge_encryption_enabled=true" label="Reassignment count" max_length="40" name="u_reassignment_count" type="string"/>
+        <element attributes="import_attribute_name=Recommend for Knowledge,edge_encryption_enabled=true" label="Recommend for Knowledge " max_length="40" name="u_recommend_for_knowledge" type="string"/>
+        <element attributes="import_attribute_name=Record ID,edge_encryption_enabled=true" label="Record ID" max_length="32" name="u_record_id" type="string"/>
+        <element attributes="import_attribute_name=Recruit ARPA,edge_encryption_enabled=true" label="Recruit ARPA" max_length="40" name="u_recruit_arpa" type="string"/>
+        <element attributes="import_attribute_name=Requested by,edge_encryption_enabled=true" label="Requested by" max_length="32" name="u_requested_by" type="string"/>
+        <element attributes="import_attribute_name=Requested due by,edge_encryption_enabled=true" label="Requested due by" max_length="40" name="u_requested_due_by" type="string"/>
+        <element attributes="import_attribute_name=Request type,edge_encryption_enabled=true" label="Request type" max_length="40" name="u_request_type" type="string"/>
+        <element attributes="import_attribute_name=Reschedule maintenance if canceled,edge_encryption_enabled=true" label="Reschedule maintenance if canceled" max_length="40" name="u_reschedule_m_ce_if_canceled" type="string"/>
+        <element attributes="import_attribute_name=Secure notes,edge_encryption_enabled=true" label="Secure notes" max_length="4000" name="u_secure_notes" type="string"/>
+        <element attributes="import_attribute_name=Service offering,edge_encryption_enabled=true" label="Service offering" max_length="32" name="u_service_offering" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Stage" max_length="40" name="u_stage" type="string"/>
+        <element attributes="import_attribute_name= Status,edge_encryption_enabled=true" label=" Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=Subcategory,edge_encryption_enabled=true" label="Subcategory" max_length="100" name="u_subcategory" type="string"/>
+        <element attributes="import_attribute_name=Substate,edge_encryption_enabled=true" label="Substate" max_length="40" name="u_substate" type="string"/>
+        <element attributes="import_attribute_name=Suspended for,edge_encryption_enabled=true" label="Suspended for" max_length="40" name="u_suspended_for" type="string"/>
+        <element attributes="import_attribute_name=Suspended on,edge_encryption_enabled=true" label="Suspended on" max_length="40" name="u_suspended_on" type="string"/>
+        <element attributes="import_attribute_name=Suspended reason,edge_encryption_enabled=true" label="Suspended reason" max_length="40" name="u_suspended_reason" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sys ID" max_length="40" name="u_sys_id" type="string"/>
+        <element attributes="import_attribute_name=Template,edge_encryption_enabled=true" label="Template" max_length="32" name="u_template" type="string"/>
+        <element attributes="import_attribute_name=Template Workflow Invoked,edge_encryption_enabled=true" label="Template Workflow Invoked" max_length="40" name="u_template_workflow_invoked" type="string"/>
+        <element attributes="import_attribute_name=Title,edge_encryption_enabled=true" label="Title" max_length="160" name="u_title" type="string"/>
+        <element attributes="import_attribute_name=T&amp;L,edge_encryption_enabled=true" label="T&amp;L " max_length="40" name="u_t_l" type="string"/>
+        <element attributes="import_attribute_name=Upon approval,edge_encryption_enabled=true" label="Upon approval" max_length="40" name="u_upon_approval" type="string"/>
+        <element attributes="import_attribute_name=Upon reject,edge_encryption_enabled=true" label="Upon reject" max_length="40" name="u_upon_reject" type="string"/>
+        <element attributes="import_attribute_name=Urgency,edge_encryption_enabled=true" label="Urgency" max_length="40" name="u_urgency" type="string"/>
+        <element attributes="import_attribute_name=Vacant,edge_encryption_enabled=true" label="Vacant" max_length="40" name="u_vacant" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor reference" max_length="40" name="u_vendor_reference" type="string"/>
+        <element attributes="import_attribute_name=Vulnerability,edge_encryption_enabled=true" label="Vulnerability" max_length="32" name="u_vulnerability" type="string"/>
+        <element attributes="import_attribute_name=WMC Specialist,edge_encryption_enabled=true" label="WMC Specialist" max_length="32" name="u_wmc_specialist" type="string"/>
+    </element>
+</database>

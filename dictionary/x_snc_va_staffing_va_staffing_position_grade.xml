@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="VA Staffing Position/Grade" max_length="40" name="x_snc_va_staffing_va_staffing_position_grade" type="collection">
+        <element label="Grade" max_length="6" name="grade" type="string"/>
+        <element display="true" label="Position/Grade" mandatory="true" max_length="40" name="position_grade" type="string"/>
+        <element label="Series" max_length="10" name="series" type="integer"/>
+        <element label="Step" max_length="6" name="step" type="integer"/>
+    </element>
+</database>

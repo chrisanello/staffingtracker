@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>discovery</category>
+        <content><![CDATA[ <h1 class="title topictitle1">CIM classification</h1>  <div class="body conbody">  <p class="p"><span class="ph">This is the processing flow for classifying Common      Information Model (CIM) storage systems.</span></p>  <div class="p">   <ol class="ol" id="discovery_classy_cim-normal__ol_ofg_lhv_5y"><li class="li">The Shazzam probe launches the wbem port probe as part of            network discovery.</li><li class="li">The wbem port probe detects activity on target ports SLP            427, CIM 5989 and 5988, and then examines the <span class="ph uicontrol">Service Registry              Queries</span> related list, at <span class="ph menucascade"><span class="ph uicontrol">Discovery Definition</span> &gt; <span class="ph uicontrol"> Port Probes</span></span>, for the SLP query. The base system provides this query is provided to            detect the service:wbem service type, which indicates the presence of an SLP            server.</li><li class="li">The Shazzam probe launches a scanner for the WBEM service            type. The scanner retrieves:<ul class="ul" id="discovery_classy_cim-normal__d19329e69"><li class="li">The attributes of the service from the SLP server.</li><li class="li">The interop namespaces of CIM servers in the network.</li></ul></li><li class="li">The scanner appends the namespace values it finds to the            port probe results.</li><li class="li">The wbem port probe appends the SLP data it carries to the            CIM Classify probes.</li><li class="li">The CIM Classify probe uses that information to explore the CIM servers.</li></ol>  </div> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:CIM_Classification&amp;version&#61;jakarta" target="_blank" rel="nofollow">How CIM Discovery works</a></div></div></div></div>]]></content>
+        <last_sync>2018-10-18 16:16:04</last_sync>
+        <modifier>normal</modifier>
+        <name>discovery_classy_cim-normal</name>
+        <page>discovery_classy_cim</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-02-20 16:09:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7e86c5dbdb109f409eceff4e0f96192f</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>discovery_classy_cim-normal</sys_name>
+        <sys_package display_value="VA Staffing Tracker" source="x_snc_va_staffing">fbf9dc5edb23cf402fe37b7e0f9619df</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="VA Staffing Tracker">fbf9dc5edb23cf402fe37b7e0f9619df</sys_scope>
+        <sys_update_name>sys_embedded_help_content_7e86c5dbdb109f409eceff4e0f96192f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-18 16:16:04</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=7e86c5dbdb109f409eceff4e0f96192f"/>
+</record_update>
